@@ -162,7 +162,7 @@ Get CDP API keys at → https://portal.cdp.coinbase.com/
 | `CDP_API_KEY_NAME` | mainnet | — | CDP API key name |
 | `CDP_API_KEY_PRIVATE_KEY` | mainnet | — | CDP private key |
 
----
+--- 
 
 ## Resources
 
