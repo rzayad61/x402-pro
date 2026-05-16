@@ -1,4 +1,0 @@
-unzip x402-pro-agent.zip && cd x402-pro-agent
-cp .env.example .env
-# Edit .env → set PAY_TO_ADDRESS to your wallet
-npm install
