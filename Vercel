@@ -1,0 +1,5 @@
+npm i -g vercel
+vercel        # follow prompts
+vercel env add PAY_TO_ADDRESS   # your wallet
+vercel --prod
+# → gives you: https://x402-pro-agent.vercel.app
